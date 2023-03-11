@@ -2,8 +2,6 @@
 #include "pch.h"
 #include <Shlwapi.h>
 #include <ShlObj.h>
-#include <fmt/format.h>
-#include <fmt/xchar.h>
 
 #include "WindowsTexPreview.h"
 #include "Reg.h"
